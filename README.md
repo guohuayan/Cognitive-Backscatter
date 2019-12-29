@@ -9,8 +9,7 @@ If you like this work, you can us by
 
 @ARTICLE{8725523, 
 
-  author={H. {Guo} and R. {Long} and Y.-C. {Liang}}, 
-  
+  author={H. {Guo} and R. {Long} and Y.-C. {Liang}}, \\  
   journal={IEEE Wireless Communications Letters}, 
   
   title={Cognitive Backscatter Network: A Spectrum Sharing Paradigm for Passive {IoT}}, 

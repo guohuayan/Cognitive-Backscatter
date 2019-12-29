@@ -9,15 +9,11 @@ If you like this work, you can us by
 
 @ARTICLE{8725523, \
   author={H. {Guo} and R. {Long} and Y.-C. {Liang}}, \
-  journal={IEEE Wireless Communications Letters}, \  
-  title={Cognitive Backscatter Network: A Spectrum Sharing Paradigm for Passive {IoT}}, \  
+  journal={IEEE Wireless Communications Letters}, 
+  title={Cognitive Backscatter Network: A Spectrum Sharing Paradigm for Passive {IoT}},  
   year={2019}, \  
-  volume={8}, 
-  
-  number={5}, 
-  
-  pages={1423-1426}, 
-  
-  ISSN={2162-2345}, 
-  
+  volume={8},   
+  number={5},   
+  pages={1423-1426},   
+  ISSN={2162-2345},   
   month={Oct},}

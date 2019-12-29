@@ -4,7 +4,7 @@ H. Guo, R. Long and Y. Liang, "Cognitive Backscatter Network: A Spectrum Sharing
 
 This work proposes a novel NOMA system allowing the primary transmission and backscatter transmission sharing the same spectrum. 
 
-If you like this work, you can us by
+If you like this work, you can cite us by
 
 @ARTICLE{8725523, \
   author={H. {Guo} and R. {Long} and Y.-C. {Liang}}, \
